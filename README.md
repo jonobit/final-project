@@ -1,3 +1,3 @@
-# final project #
+# Final project #
 
 This is the description of my website
